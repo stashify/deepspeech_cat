@@ -6,7 +6,7 @@ DeepSpeech version: 0.7.0-alpha.2
 
 * [output_graph.pb](https://storage.googleapis.com/stashify-static/deepspeech_cat/output_graph.pb)
 
-* [output_graph.tflite]https://storage.googleapis.com/stashify-static/deepspeech_cat/output_graph.tflite)
+* [output_graph.tflite](https://storage.googleapis.com/stashify-static/deepspeech_cat/output_graph.tflite)
 
 * [output_graph.pbmm](https://storage.cloud.google.com/stashify-static/deepspeech_cat/output_graph.pbmm)
 
