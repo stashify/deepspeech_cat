@@ -32,5 +32,5 @@ deepspeech --model output_graph.pb --scorer kenlm.scorer --audio audio.wav
 Latest Training Loss
 ====================
 
-Loss: 61.576375
-Avg WER: 0.140000
+* Loss: 61.576375
+* Avg WER: 0.140000
